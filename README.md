@@ -32,7 +32,7 @@ This repository contains an analysis of an A/B test conducted on a mobile game t
 
 ## **Project Objectives**
 1. Assess the effect of game version changes on player retention.
-2. Use statistical methods (e.g., Z-Test for proportions) to evaluate differences in retention rates.
+2. Use statistical methods (Z-Test for proportions and Bootstrapping) to evaluate differences in retention rates.
 3. Present findings using clear and actionable visualizations.
 
 ---
