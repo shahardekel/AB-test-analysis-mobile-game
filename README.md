@@ -45,6 +45,7 @@ The dataset contains the following columns:
 - **`retention_1`**: Whether the player returned to the game 1 day after installation (`TRUE`/`FALSE`).
 - **`retention_7`**: Whether the player returned to the game 7 days after installation (`TRUE`/`FALSE`).
 
+The data is taken from Kaggle- https://www.kaggle.com/datasets/yufengsui/mobile-games-ab-testing/data
 ---
 
 ## **Key Findings**
