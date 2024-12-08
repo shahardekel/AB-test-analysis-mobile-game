@@ -55,7 +55,7 @@ The dataset contains the following columns:
   - Test: 44.18%
 - **Statistical Results**:
   - Z-Statistic: 1.823
-  - P-Value: 0.068 (not significant at \( \alpha = 0.05 \)).
+  - P-Value: 0.068 (not significant at $\alpha$ = 0.05).
 - **Conclusion**:
   - No statistically significant difference in 1-day retention between groups.
 
@@ -65,6 +65,6 @@ The dataset contains the following columns:
   - Test: 18.2%
 - **Statistical Results**:
   - Z-Statistic: 3.135
-  - P-Value: 0.002 (significant at \( \alpha = 0.05 \)).
+  - P-Value: 0.002 (significant at $\alpha$ = 0.05).
 - **Conclusion**:
   - The test group shows a statistically significant drop in 7-day retention, indicating reduced long-term player engagement.
